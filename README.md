@@ -47,5 +47,10 @@ My primary research interests mainly focus on small object detection and its app
       <td><alt="Issues"/><p align="center"> Classification </p></td>
       <td><alt="Description"/><p align="center"> Implement MNIST handwritten digit recognition with PyTorch. </p></td>
     </tr>
+        <tr>
+      <td><a href="https://github.com/Gemini-wt/Gemini-wt/tree/a2d0c7fc7bacc728243e82228e04e5e0958b5c32/price_predict"><b> MNIST</b></a></td>
+      <td><alt="Issues"/><p align="center"> Regression </p></td>
+      <td><alt="Description"/><p align="center"> Analyzing American house prices using a simple linear regression model. </p></td>
+    </tr>
   </tbody>
 </table>
