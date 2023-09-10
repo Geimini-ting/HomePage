@@ -6,7 +6,7 @@
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>🎁 Projects</b></td>
+      <td><b>🎁 Papers</b></td>
       <td><b>⭐ Citations</b></td>
     </tr>
   </thead>
