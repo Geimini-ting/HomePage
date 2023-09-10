@@ -20,7 +20,7 @@ My primary research interests mainly focus on small object detection and its app
       <td><alt="Citations"/><p align="center"> Not published yet </p>   </td>
     </tr>
     <tr>
-      <td><a href="https://doi.org/10.3390/rs15051249"><b> Adaptive Slicing-Aided Hyper Inference for Small Object Detection in High-Resolution Remote Sensing Images</b></a></td>
+      <td><a href="https://github.com/Gemini-wt/ASAHI/tree/b7019cd07eaa0ce91528bd55aa72a5a9c911e141"><b> Adaptive Slicing-Aided Hyper Inference for Small Object Detection in High-Resolution Remote Sensing Images</b></a></td>
       <td><a alt="Journals" href="https://www.mdpi.com/journal/remotesensing"/><b align="center">Remote Sensing</b></a></td>
       <td><alt="Citations"/><p align="center"> 4 </p>   </td>
     </tr>
