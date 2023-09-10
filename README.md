@@ -29,7 +29,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://doi.org/10.3390/rs15051249"><b> MNIST</b></a></td>
+      <td><a href="https://github.com/Gemini2415/Gemini2415/tree/93d70e89884b8ae4df2258f4da39b7032282a6b3/MNIST_cls"><b> MNIST</b></a></td>
       <td><alt="Issues"/><p align="center"> Classification </p></td>
       <td><alt="Description"/><p align="center"> Implement MNIST handwritten digit recognition with PyTorch. </p></td>
     </tr>
