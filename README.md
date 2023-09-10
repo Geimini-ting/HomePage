@@ -38,12 +38,12 @@ My primary research interests mainly focus on small object detection and its app
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Gemini2415/Gemini2415/tree/93d70e89884b8ae4df2258f4da39b7032282a6b3/MNIST_cls"><b> code note</b></a></td>
+      <td><a href="https://github.com/Gemini-wt/Gemini-wt/blob/6f29260b7091c8e7ea3596525d0b8ee6d505948b/code%20note.py"><b> code note</b></a></td>
       <td><alt="Issues"/><p align="center"> Coding code </p></td>
       <td><alt="Description"/><p align="center"> Common coding code used in pytorch and python to build deep learning frameworks. </p></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Gemini-wt/Gemini-wt/blob/6f29260b7091c8e7ea3596525d0b8ee6d505948b/code%20note.py"><b> MNIST</b></a></td>
+      <td><a href="https://github.com/Gemini-wt/Gemini-wt/tree/b8d228a123636ea9db2d2625be1645deadb47629/MNIST_cls"><b> MNIST</b></a></td>
       <td><alt="Issues"/><p align="center"> Classification </p></td>
       <td><alt="Description"/><p align="center"> Implement MNIST handwritten digit recognition with PyTorch. </p></td>
     </tr>
