@@ -3,7 +3,7 @@
 
 <p>Welcome to my page! </br> I'm Hao Zhang, and I come from China. I am a senior undergraduate student at Nanjing University of Posts and Telecommunications, supervised by Associate professor Hao Chuanyan. 
 
-My primary research area interests mainly focus on small object detection and its applications in  computer vision. I currently living in Nanjing, China. </p>
+My primary research interests mainly focus on small object detection and its applications in  computer vision. I currently living in Nanjing, China. </p>
 <h3>Paper</h3>
 <table>
   <thead align="center">
