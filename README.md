@@ -3,7 +3,7 @@
 
 
 <p>Welcome to my page! </br> I'm Hao Zhang,an undergraduate student majoring in computer vision from China, currently living in Nanjing, China. </p>
-<h3>Open source projects</h3>
+<h3>Paper</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -15,6 +15,24 @@
     <tr>
       <td><a href="https://doi.org/10.3390/rs15051249"><b> Adaptive Slicing-Aided Hyper Inference for Small Object Detection in High-Resolution Remote Sensing Images</b></a></td>
       <td><alt="Citations"/><p align="center"> 4 </p>   </td>
+    </tr>
+  </tbody>
+</table>
+        
+<h3>Open source projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📚 Description</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://doi.org/10.3390/rs15051249"><b> MNIST</b></a></td>
+      <td><alt="Issues"/><p align="center"> Classification </p></td>
+      <td><alt="Description"/><p align="center"> Implement MNIST handwritten digit recognition with PyTorch. </p></td>
     </tr>
   </tbody>
 </table>
