@@ -17,6 +17,10 @@ My primary research area interests mainly focus on small object detection and it
       <td><a href="https://doi.org/10.3390/rs15051249"><b> Adaptive Slicing-Aided Hyper Inference for Small Object Detection in High-Resolution Remote Sensing Images</b></a></td>
       <td><alt="Citations"/><p align="center"> 4 </p>   </td>
     </tr>
+    <tr>
+      <td><a ><b> SLINET: SLICING-AIDED LEARNING FOR SMALL OBJECT DETECTION</b></a></td>
+      <td><alt="Citations"/><p align="center"> Not published yet </p>   </td>
+    </tr>
   </tbody>
 </table>
         
