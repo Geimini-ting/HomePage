@@ -1,8 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-
-<p>Welcome to my page! </br> I'm Hao Zhang,an undergraduate student majoring in computer vision from China, currently living in Nanjing, China. </p>
+<p>Welcome to my page! </br> I'm Hao Zhang, and I come from China. I am a senior undergraduate student at Nanjing University of Posts and Telecommunications, supervised by Associate professor Hao Chuanyan. My primary research area is small object detection in computer vision. I currently reside in Nanjing, China. </p>
 <h3>Paper</h3>
 <table>
   <thead align="center">
