@@ -1,4 +1,4 @@
-<h1><img src="https://github.com/Gemini-wt/Gemini-wt/blob/ae2a79b0a6abdcf2f2b4bb5f5c0fae3cd37998b8/show/blob-sunglasses.gif" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://github.com/Gemini-wt/Gemini-wt/blob/ae2a79b0a6abdcf2f2b4bb5f5c0fae3cd37998b8/show/blob-sunglasses.gif" /> Hey! Nice to see you.</h1>
 
 
 <p>Welcome to my page! </br> I'm Hao Zhang, and I come from China. I am a senior undergraduate student at Nanjing University of Posts and Telecommunications, supervised by Associate professor Chuanyan Hao. 
