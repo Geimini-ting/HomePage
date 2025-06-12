@@ -1,32 +1,90 @@
-<h1>😎 Hey! Nice to see you.</h1>
+<h1 align="center">😎 Hey! Nice to see you.</h1>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Nanjing,%20China-blue" alt="location">
+  <img src="https://img.shields.io/badge/Field-Deep%20Learning-red" alt="field">
+  <img src="https://img.shields.io/badge/Status-Ph.D.%20Student-success" alt="status">
+</p>
 
-<p>Welcome to my page! </br>Hi, I'm Hao Zhang from Nanjing, China.
-I received my undergraduate degree from Nanjing University of Posts and Telecommunications, where I worked with Prof. Chuanyan Hao on small object detection and its applications in computer vision.
+<p>
+Welcome to my GitHub! </br>
+I'm <b>Hao Zhang</b>, a Ph.D. student from <b>Nanjing University of Science and Technology (NUST)</b>, where I am fortunate to be advised by <b>Prof. Zechao Li</b> and <b>Assoc. Prof. Shiyu Xuan</b>. My research interests revolve around <b>deep learning</b>, particularly its applications in <b>class-incremental learning</b>, <b>representation learning</b>, and <b>small object detection</b>.
 
-Currently, I’m pursuing a Ph.D. at Nanjing University of Science and Technology, supervised by Prof. Zechao Li and Assoc. Prof. Shiyu Xuan. My research interests lie in deep learning and its broad applications.
+I received my undergraduate degree from <b>Nanjing University of Posts and Telecommunications (NUPT)</b>, where I worked with <b>Prof. Chuanyan Hao</b> on small object detection and its applications in computer vision.
 
-I'm always open to academic exchange and collaboration—feel free to reach out!</p>
-<h3>Paper</h3>
+I'm passionate about academic collaboration, open-source research, and turning ideas into impactful solutions. If you share similar interests or just want to connect—feel free to reach out!
+</p>
+
+---
+
+<h3>📄 Representative Papers</h3>
+
 <table>
   <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Papers</b></td>
-      <td><b>📚 Journals</b></td>
+    <tr>
+      <td><b>🎁 Title</b></td>
+      <td><b>📚 Journal</b></td>
       <td><b>⭐ Citations</b></td>
+      <td><b>🎯 Area</b></td>
     </tr>
   </thead>
   <tbody>
-      <tr>
-      <td><a ><b> SLINET: SLICING-AIDED LEARNING FOR SMALL OBJECT DETECTION</b></a></td>
-      <td><a alt="Journals" href="https://www.sciencedirect.com/journal/pattern-recognition-letters"/><b align="center">Pattern Recognition Letters</b></a></td>
-      <td><alt="Citations"/><p align="center"> Not published yet </p>   </td>
+    <tr>
+      <td>
+        <a><b>SliNet: Slicing-Aided Learning for Small Object Detection</b></a>
+      </td>
+      <td>
+        <a href="https://doi.org/10.1109/lsp.2024.3373261"><b>IEEE Signal Processing Letters</b></a>
+      </td>
+      <td align="center">10+</td>
+      <td align="center">Small Object Detection</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Gemini-wt/ASAHI/tree/13408050ba91141a072a4645ee6ee4f2924747d0"><b> Adaptive Slicing-Aided Hyper Inference for Small Object Detection in High-Resolution Remote Sensing Images</b></a></td>
-      <td><a alt="Journals" href="https://www.mdpi.com/journal/remotesensing"/><b align="center">Remote Sensing</b></a></td>
-      <td><alt="Citations"/><p align="center"> 4 </p>   </td>
+      <td>
+        <a href="https://github.com/Gemini-wt/ASAHI/tree/13408050ba91141a072a4645ee6ee4f2924747d0">
+          <b>Adaptive Slicing-Aided Hyper Inference for Small Object Detection in High-Resolution Remote Sensing Images</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://www.mdpi.com/journal/remotesensing"><b>Remote Sensing</b></a>
+      </td>
+      <td align="center">10+</td>
+      <td align="center">Remote Sensing, Small Object Detection</td>
     </tr>
   </tbody>
 </table>
-        
+
+---
+
+<h3>🧠 Research Interests</h3>
+
+<ul>
+  <li>🧩 Class-Incremental Learning (CIL)</li>
+  <li>🔍 Representation Learning & Feature Dynamics</li>
+  <li>📹 Video Temporal Grounding</li>
+  <li>🛰️ Small Object Detection in Remote Sensing</li>
+  <li>🤖 Reinforcement Learning</li>
+  <li>🧠 Explainability in Deep Neural Networks</li>
+</ul>
+
+---
+
+<h3>📝 TODOs & Upcoming</h3>
+
+<ul>
+  <li>
+    <b>🔜 What Gets Forgotten? Explaining the Forgetting of Interactions in Class Incremental Learning</b><br>
+    <i>Status:</i> Code and dataset will be released soon. Stay tuned!
+  </li>
+</ul>
+
+---
+
+<h3>📫 Let's Connect</h3>
+
+<p>
+  💼 <b>Email:</b> haozhang@njust.edu.cn <br>
+  🔗 <b>Google Scholar:</b> <a href="https://scholar.google.com/citations?hl=zh-CN&user=O85nhYsAAAAJ&view_op=list_works&gmla=AH8HC4xoIkeXA0GmToFXzCflcNlTjU_Uuj3UGN0jnPnGJSTLjXlwtlXAEJy9hOrT_-Y3OEQUDKJOLKT-mRjzW6yyjYKUyQqdaAii5uihg8w">[Link]</a> <br>
+  🌐 <b>Personal Website:</b> <i>(will be released)</i>
+</p>
+
