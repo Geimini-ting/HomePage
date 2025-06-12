@@ -8,7 +8,7 @@
 
 <p>
 Welcome to my GitHub! </br>
-I'm <b>Hao Zhang</b>, a Ph.D. student from <b>Nanjing University of Science and Technology (NUST)</b>, where I am fortunate to be advised by <b>Prof. Zechao Li</b> and <b>Assoc. Prof. Shiyu Xuan</b>. My research interests revolve around <b>deep learning</b>, particularly its applications in <b>class-incremental learning</b>, <b>representation learning</b>, and <b>small object detection</b>.
+I'm <b>Hao Zhang</b>, a Ph.D. student from <b>Nanjing University of Science and Technology (NUST)</b>, where I am fortunate to be advised by <b>Prof. Zechao Li</b> and <b>Assoc. Prof. Shiyu Xuan</b>. My research interests revolve around <b>deep learning</b>.
 
 I received my undergraduate degree from <b>Nanjing University of Posts and Telecommunications (NUPT)</b>, where I worked with <b>Prof. Chuanyan Hao</b> on small object detection and its applications in computer vision.
 
