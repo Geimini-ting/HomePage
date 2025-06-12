@@ -1,9 +1,12 @@
 <h1>😎 Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Hao Zhang, and I come from China. I am a senior undergraduate student at Nanjing University of Posts and Telecommunications, supervised by Associate professor Chuanyan Hao. 
+<p>Welcome to my page! </br>Hi, I'm Hao Zhang from Nanjing, China.
+I received my undergraduate degree from Nanjing University of Posts and Telecommunications, where I worked with Prof. Chuanyan Hao on small object detection and its applications in computer vision.
 
-My primary research interests mainly focus on small object detection and its applications in  computer vision. I currently living in Nanjing, China. </p>
+Currently, I’m pursuing a Ph.D. at Nanjing University of Science and Technology, supervised by Prof. Zechao Li and Assoc. Prof. Shiyu Xuan. My research interests lie in deep learning and its broad applications.
+
+I'm always open to academic exchange and collaboration—feel free to reach out!</p>
 <h3>Paper</h3>
 <table>
   <thead align="center">
