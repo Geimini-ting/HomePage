@@ -69,7 +69,7 @@ I'm passionate about academic collaboration, open-source research, and turning i
 
 ---
 
-<h3>📝 TODOs & Upcoming</h3>
+<h3>📝 TODO</h3>
 
 <ul>
   <li>
