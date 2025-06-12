@@ -27,30 +27,3 @@ My primary research interests mainly focus on small object detection and its app
   </tbody>
 </table>
         
-<h3>Open source projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📚 Description</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/Gemini-wt/Gemini-wt/blob/6f29260b7091c8e7ea3596525d0b8ee6d505948b/code%20note.py"><b> code note</b></a></td>
-      <td><alt="Issues"/><p align="center"> Coding note </p></td>
-      <td><alt="Description"/><p align="center"> Common coding note used in pytorch and python to build deep learning frameworks. </p></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Gemini-wt/Gemini-wt/tree/b8d228a123636ea9db2d2625be1645deadb47629/MNIST_cls"><b> MNIST</b></a></td>
-      <td><alt="Issues"/><p align="center"> Classification </p></td>
-      <td><alt="Description"/><p align="center"> Implement MNIST handwritten digit recognition with PyTorch. </p></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Gemini-wt/Gemini-wt/tree/a2d0c7fc7bacc728243e82228e04e5e0958b5c32/price_predict"><b> pice_predict</b></a></td>
-      <td><alt="Issues"/><p align="center"> Regression </p></td>
-      <td><alt="Description"/><p align="center"> Analyzing American house prices using a simple linear regression model. </p></td>
-    </tr>
-  </tbody>
-</table>
