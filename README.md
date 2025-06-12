@@ -31,7 +31,9 @@ I'm passionate about academic collaboration, open-source research, and turning i
   <tbody>
     <tr>
       <td>
-        <a><b>SliNet: Slicing-Aided Learning for Small Object Detection</b></a>
+        <a href="https://github.com/Gemini-wt/SliNet">
+          <b>SliNet: Slicing-Aided Learning for Small Object Detection</b>
+        </a>
       </td>
       <td>
         <a href="https://doi.org/10.1109/lsp.2024.3373261"><b>IEEE Signal Processing Letters</b></a>
@@ -41,9 +43,7 @@ I'm passionate about academic collaboration, open-source research, and turning i
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/Gemini-wt/ASAHI/tree/13408050ba91141a072a4645ee6ee4f2924747d0">
           <b>Adaptive Slicing-Aided Hyper Inference for Small Object Detection in High-Resolution Remote Sensing Images</b>
-        </a>
       </td>
       <td>
         <a href="https://www.mdpi.com/journal/remotesensing"><b>Remote Sensing</b></a>
