@@ -62,7 +62,7 @@ I'm passionate about academic collaboration, open-source research, and turning i
   <li>🧩 Class-Incremental Learning (CIL)</li>
   <li>🔍 Representation Learning & Feature Dynamics</li>
   <li>📹 Video Temporal Grounding</li>
-  <li>🛰️ Small Object Detection in Remote Sensing</li>
+  <li>🛰️ Small Object Detection in Remote Sensing and UAV Imagery</li>
   <li>🤖 Reinforcement Learning</li>
   <li>🧠 Explainability in Deep Neural Networks</li>
 </ul>
