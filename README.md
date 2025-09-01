@@ -78,6 +78,13 @@ I'm passionate about academic collaboration, open-source research, and turning i
   </li>
 </ul>
 
+<ul>
+  <li>
+    <b>🔜 Textual and Temporal-Guided Feature Decoupling for Video Temporal Grounding</b><br>
+    <i>Status:</i> Code and dataset will be released soon. Stay tuned!
+  </li>
+</ul>
+
 ---
 
 <h3>📫 Let's Connect</h3>
